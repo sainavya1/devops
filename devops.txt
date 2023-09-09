@@ -1,5 +1,9 @@
 hi im navya, learning devops
 Hi This is Bhavyanth
 
+
 I'm currently working on a shared feature.
 Resolve a mr conflict using merge - Bhavyanth
+
+I'm currently working on a shared feature.
+im learning devops
