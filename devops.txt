@@ -3,3 +3,10 @@ Hi This is Bhavyanth
 im learning devops
 
 Resolve a mr conflict using merge - Navya
+
+
+I'm currently working on a shared feature.
+Resolve a mr conflict using merge - Bhavyanth
+
+I'm currently working on a shared feature.
+im learning devops
