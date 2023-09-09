@@ -7,4 +7,4 @@ Resolve a mr conflict using merge - Bhavyanth
 
 I'm currently working on a shared feature.
 im learning devops
-creating a merge conflict
+creating a merge conflict.
